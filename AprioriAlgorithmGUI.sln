@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apriori", "AlgAprioriGUI\Apriori.csproj", "{F0126B20-B568-4FD9-BD1E-02B96302914A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{6080EDD5-CE77-4CBF-87E2-AA09AD00913A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0126B20-B568-4FD9-BD1E-02B96302914A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0126B20-B568-4FD9-BD1E-02B96302914A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0126B20-B568-4FD9-BD1E-02B96302914A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0126B20-B568-4FD9-BD1E-02B96302914A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6080EDD5-CE77-4CBF-87E2-AA09AD00913A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6080EDD5-CE77-4CBF-87E2-AA09AD00913A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6080EDD5-CE77-4CBF-87E2-AA09AD00913A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6080EDD5-CE77-4CBF-87E2-AA09AD00913A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
