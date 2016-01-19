@@ -1,0 +1,27 @@
+c:\users\master\documents\visual studio 2012\Projects\AprioriAlgorithmGUI\AlgAprioriGUI\bin\Debug\AlgAprioriGUI.exe.config
+c:\users\master\documents\visual studio 2012\Projects\AprioriAlgorithmGUI\AlgAprioriGUI\bin\Debug\AlgAprioriGUI.exe
+c:\users\master\documents\visual studio 2012\Projects\AprioriAlgorithmGUI\AlgAprioriGUI\bin\Debug\AlgAprioriGUI.pdb
+c:\users\master\documents\visual studio 2012\Projects\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.Properties.Resources.resources
+c:\users\master\documents\visual studio 2012\Projects\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.csproj.GenerateResource.Cache
+c:\users\master\documents\visual studio 2012\Projects\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.exe
+c:\users\master\documents\visual studio 2012\Projects\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.pdb
+c:\users\master\documents\visual studio 2012\Projects\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.Form1.resources
+c:\users\master\documents\visual studio 2012\Projects\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.csprojResolveAssemblyReference.cache
+D:\Desktop\AprioriAlgorithmGUI\AlgAprioriGUI\bin\Debug\AlgAprioriGUI.exe.config
+D:\Desktop\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.exe
+D:\Desktop\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.pdb
+D:\Desktop\AprioriAlgorithmGUI\AlgAprioriGUI\bin\Debug\AlgAprioriGUI.exe
+D:\Desktop\AprioriAlgorithmGUI\AlgAprioriGUI\bin\Debug\AlgAprioriGUI.pdb
+D:\Desktop\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.csprojResolveAssemblyReference.cache
+D:\Desktop\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.Properties.Resources.resources
+D:\Desktop\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.Form1.resources
+D:\Desktop\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.csproj.GenerateResource.Cache
+D:\Desktop\Ultimos archivos APRIORI\AprioriAlgorithmGUI\AprioriAlgorithmGUI\AlgAprioriGUI\bin\Debug\AlgAprioriGUI.exe.config
+D:\Desktop\Ultimos archivos APRIORI\AprioriAlgorithmGUI\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.exe
+D:\Desktop\Ultimos archivos APRIORI\AprioriAlgorithmGUI\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.pdb
+D:\Desktop\Ultimos archivos APRIORI\AprioriAlgorithmGUI\AprioriAlgorithmGUI\AlgAprioriGUI\bin\Debug\AlgAprioriGUI.exe
+D:\Desktop\Ultimos archivos APRIORI\AprioriAlgorithmGUI\AprioriAlgorithmGUI\AlgAprioriGUI\bin\Debug\AlgAprioriGUI.pdb
+D:\Desktop\Ultimos archivos APRIORI\AprioriAlgorithmGUI\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.csprojResolveAssemblyReference.cache
+D:\Desktop\Ultimos archivos APRIORI\AprioriAlgorithmGUI\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.Properties.Resources.resources
+D:\Desktop\Ultimos archivos APRIORI\AprioriAlgorithmGUI\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.Form1.resources
+D:\Desktop\Ultimos archivos APRIORI\AprioriAlgorithmGUI\AprioriAlgorithmGUI\AlgAprioriGUI\obj\Debug\AlgAprioriGUI.csproj.GenerateResource.Cache
