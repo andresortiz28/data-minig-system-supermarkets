@@ -1,0 +1,7 @@
+C:\Users\FabianAndres\Downloads\Lany\Integrador\AprioriAlgorithmGUI\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\FabianAndres\Downloads\Lany\Integrador\AprioriAlgorithmGUI\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\FabianAndres\Downloads\Lany\Integrador\AprioriAlgorithmGUI\UnitTestProject\bin\Debug\AlgAprioriGUI.exe
+C:\Users\FabianAndres\Downloads\Lany\Integrador\AprioriAlgorithmGUI\UnitTestProject\bin\Debug\AlgAprioriGUI.pdb
+C:\Users\FabianAndres\Downloads\Lany\Integrador\AprioriAlgorithmGUI\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\FabianAndres\Downloads\Lany\Integrador\AprioriAlgorithmGUI\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\FabianAndres\Downloads\Lany\Integrador\AprioriAlgorithmGUI\UnitTestProject\obj\Debug\UnitTestProject.pdb
